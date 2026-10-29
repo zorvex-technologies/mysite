@@ -12,6 +12,6 @@ This repository only holds the **downloads**. Get the latest version from the [R
 
 ## Status
 
-Current builds are **preview versions** for testers. They connect to a test server, and sign-in codes are only sent to approved test email addresses for now, so a new account may not be able to register yet. Please do not rely on a preview for real business records.
+Current builds are **preview versions** for testers. They connect to a test server. Please do not rely on a preview for real business records.
 
 Each release lists SHA-256 checksums so you can check a download.
